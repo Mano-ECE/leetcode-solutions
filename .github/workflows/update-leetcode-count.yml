@@ -1,0 +1,73 @@
+name: Update LeetCode Count
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count LeetCode problems
+        id: count
+        run: |
+          count=$(find . -maxdepth 1 -mindepth 1 -type d -printf '%f\n' | grep -E '^[0-9]+-' | wc -l)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "LeetCode problems solved: $count"
+
+      - name: Update README
+        env:
+          COUNT: ${{ steps.count.outputs.count }}
+        run: |
+          python3 <<'PY'
+          import os
+          from pathlib import Path
+
+          count = os.environ["COUNT"]
+          readme = Path("README.md")
+
+          if readme.exists():
+              text = readme.read_text()
+          else:
+              text = "# LeetCode Solutions\n\n"
+
+          start = "<!-- LEETCODE_COUNT_START -->"
+          end = "<!-- LEETCODE_COUNT_END -->"
+
+          new_section = (
+              f"{start}\n"
+              f"🔥 **LeetCode Problems Solved: {count}**\n"
+              f"{end}"
+          )
+
+          if start in text and end in text:
+              before = text.split(start)[0]
+              after = text.split(end, 1)[1]
+              text = before + new_section + after
+          else:
+              text = text.rstrip() + "\n\n" + new_section + "\n"
+
+          readme.write_text(text)
+
+      - name: Commit updated count
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update LeetCode problem count"
+            git push
+          fi
