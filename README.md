@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
