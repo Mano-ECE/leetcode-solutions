@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0326-power-of-three) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
