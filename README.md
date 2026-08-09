@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -43,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
