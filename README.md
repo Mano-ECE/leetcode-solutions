@@ -78,3 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
+
+<!-- LEETCODE_COUNT_START -->
+🔥 **LeetCode Problems Solved: 13**
+<!-- LEETCODE_COUNT_END -->
