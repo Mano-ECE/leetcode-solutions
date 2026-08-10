@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0507-perfect-number) |
