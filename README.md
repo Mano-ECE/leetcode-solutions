@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -83,6 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
 
 <!-- LEETCODE_COUNT_START -->
