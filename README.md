@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0704-binary-search) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Floyd's Cycle Finding Algorithm
