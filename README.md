@@ -90,6 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
 
 <!-- LEETCODE_COUNT_START -->
