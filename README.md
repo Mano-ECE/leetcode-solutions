@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
