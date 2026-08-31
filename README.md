@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Simulation
 |  |
 | ------- |
