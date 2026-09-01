@@ -1,5 +1,5 @@
 <!-- LEETCODE_COUNT_START -->
-🔥 **LeetCode Problems Solved: 24**
+🔥 **LeetCode Problems Solved: 25**
 <!-- LEETCODE_COUNT_END -->
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
