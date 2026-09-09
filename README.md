@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mano-core-ece/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -136,6 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
 
 <!-- LEETCODE_COUNT_START -->
