@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mano-core-ece/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mano-ECE/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Mano-ECE/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Mano-ECE/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Mano-ECE/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
 
 <!-- LEETCODE_COUNT_START -->
